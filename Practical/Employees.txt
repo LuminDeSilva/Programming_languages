@@ -1,0 +1,5 @@
+    R.Ketharan  26        Male      60000.00       DavidStreet    Trinco      Eastern
+    E.Y.Dravid  28        Male      80000.00       Firstcrossst   Vavuniya    Northern
+    L.M.Nishani 30        Female    55000.00       PeradeniyaSt   Kandy       Central
+    S.A.Kumari  35        Female    70000.00       NevilStreet    Trinco      Eastern
+    K.Narmathan 27        Male      89000.00       Secondcrossst  Jaffna      Northern

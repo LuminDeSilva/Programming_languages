@@ -1,0 +1,5 @@
+Name : david
+Age : 22
+Reg. no. : 2019/is/45
+Sex : Male
+Address : Colombo,SriLanka
